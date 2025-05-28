@@ -1,0 +1,4 @@
+agents
+openai
+python-dotenv 
+sqlmodel
